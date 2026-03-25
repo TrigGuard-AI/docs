@@ -10,6 +10,10 @@ understand the protocol contract, architecture, and deployment models.
 
 The canonical protocol definition lives in trigguard-protocol.
 
+## Core terms
+
+Use the same vocabulary as the protocol: **Execution Surface**, **Protocol Contract**, **Protocol Fingerprint**, **Audit Bundle**, **Verifier**, and **OER** (Operational Evidence Record).
+
 ## Authority Hierarchy
 
 trigguard-protocol → canonical protocol specification  
